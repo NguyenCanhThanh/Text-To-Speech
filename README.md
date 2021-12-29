@@ -31,8 +31,8 @@ python3 Main.py -i <input text> -o <output mp3 file>
 ```
 
 where: 
-* <input text>: string text you want to read
-* <output mp3 file>: name of file mp3, where the output file is saved
+* .<input text>: string text you want to read
+* .<output mp3 file>: name of file mp3, where the output file is saved
 
 
 ```
